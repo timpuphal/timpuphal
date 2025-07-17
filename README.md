@@ -1,5 +1,5 @@
-👋 Hi, I’m @timpuphal
-👀 I’m interested in robust planning & cooperative planning for robots and human-robot interaction
-🌱 I’m currently learning LSTM, transformers and vision language models
-💞️ I’m looking to collaborate on robotics
-📫 How to reach me ... via linkedin
+- 👋 Hi, I’m @timpuphal
+- 👀 I’m interested in robust planning & cooperative planning for robots and human-robot interaction
+- 🌱 I’m currently learning LSTM, transformers and vision language models
+- 💞️ I’m looking to collaborate on robotics
+- 📫 How to reach me ... via linkedin
